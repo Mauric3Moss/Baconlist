@@ -4,8 +4,10 @@
   font-style: normal;
 }
 body{
-  font-family: "Jacquard 12", system-ui;
+  font-family: "Source Code Pro", monospace;
   color: #03fc88;
-  font-size 50px;
   background-color: #4d4d4d;
+}
+a{
+  color: #03fc88;
 }
