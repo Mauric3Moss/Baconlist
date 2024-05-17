@@ -13,6 +13,10 @@ a{
   padding: 8px;
   background-color: #242423;
 }
+a:hover{
+  background-color: grey;
+  color: lime;
+}
 ul {
   list-style-type: none;
   margin: 0;
